@@ -95,12 +95,7 @@ Now strategically transitioning into **Data Analytics**, leveraging my foundatio
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshupathakkk&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshupathakkk&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=himanshupathakkk&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupathakkk&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -108,10 +103,10 @@ Now strategically transitioning into **Data Analytics**, leveraging my foundatio
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/himanshupathakkk/">
     <img src="https://img.shields.io/badge/LinkedIn-1F75FE?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:himanshupathak1224@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
