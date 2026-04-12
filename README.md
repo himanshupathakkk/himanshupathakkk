@@ -6,6 +6,10 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=himanshupathakkk&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
 ## 🔹 About Me
 
 AI Data Quality Analyst at **Amazon (AWS Bedrock)** with hands-on experience improving production-grade ML systems.  
@@ -57,33 +61,66 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ## 🔹 Featured Projects
 
-### 🏦 Credit Card Spend & Risk Intelligence Dashboard  
-**End-to-end financial analytics project simulating a fintech analyst role**  
-- **Problem:** Identify high-risk customers and anomalous transaction patterns  
-- **Solution:** Built a pipeline covering data cleaning → EDA → SQL analytics → anomaly detection → dashboard  
-- **Tools:** Python, MySQL, Power BI  
-🔗 *[View Project](#)*  
+### 📈 E-Commerce Funnel & Revenue Intelligence Dashboard  
+[🔗 View Project](https://github.com/himanshupathakkk/ecommerce-funnel-dashboard)
+
+**Tech Stack:** Power BI, SQL, Python (Pandas)  
+
+- Built an end-to-end analytics solution to evaluate user behavior, revenue trends, and conversion efficiency  
+- Designed a funnel analysis (View → Cart → Purchase) to identify major drop-off points  
+- Developed KPI framework including Revenue, AOV, Conversion Rate, and Cart-to-Purchase Rate  
+- Performed category-level revenue analysis to identify key business drivers  
+- Implemented star schema data modeling for efficient reporting  
+
+📊 **Key Insights:**
+- ~98% drop-off observed at View → Cart stage (primary bottleneck)  
+- Strong Cart → Purchase conversion (~61%) indicates post-cart efficiency  
+- Revenue declined over time, signaling engagement issues  
+
+📌 **Impact:** Enabled identification of critical funnel inefficiencies and revenue concentration, supporting targeted optimization strategies  
 
 ---
 
-### 🛒 E-Commerce Funnel & Revenue Intelligence Dashboard  
-**Conversion and revenue analytics for product decision-making**  
-- **Problem:** Analyze drop-offs across funnel stages and optimize revenue drivers  
-- **Solution:** Designed funnel metrics, cohort insights, and revenue trend dashboards  
-- **Tools:** Power BI, SQL, Python  
-🔗 *[View Project](#)*  
+### 👥 Customer Behavior & Revenue Insights Dashboard  
+[🔗 View Project](https://github.com/himanshupathakkk/customer-behavior-analysis-dashboard)
+
+**Tech Stack:** Python (Pandas, NumPy), SQL (MySQL), Power BI  
+
+- Developed an end-to-end data pipeline (Python → SQL → Power BI) for retail analytics  
+- Performed customer segmentation and revenue driver analysis  
+- Analyzed seasonal trends and category-level performance  
+- Evaluated impact of discounts on purchasing behavior and profitability  
+- Built interactive dashboard for business decision support  
+
+📊 **Key Insights:**
+- Clothing category is the primary revenue driver  
+- Fall season generates highest revenue due to increased spending  
+- Discounts increase volume but have limited impact on AOV  
+- Medium-value customers represent strong upselling potential  
+
+📌 **Impact:** Delivered actionable insights for marketing optimization, pricing strategy, and customer targeting  
 
 ---
 
-### 🎬 Netflix Content Strategy Analysis  
-**Product-focused analysis beyond standard dataset exploration**  
-- **Problem:** Understand content distribution and strategic positioning  
-- **Solution:** Framed insights from a product & content strategy perspective  
-- **Tools:** Python, Pandas, Visualization  
-🔗 *[View Project](#)*  
+### ⚠️ Credit Risk & Fraud Analytics Dashboard  
+[🔗 View Project](https://github.com/himanshupathakkk/credit-risk-intelligence-dashboard)
+
+**Tech Stack:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL), Tableau  
+
+- Built a credit risk intelligence system using transaction-level data  
+- Performed feature engineering and customer-level aggregation  
+- Implemented anomaly detection using Isolation Forest  
+- Developed risk scoring model to classify customers (Low, Medium, High)  
+- Designed interactive Tableau dashboard for risk monitoring  
+
+📊 **Key Insights:**
+- Medium-risk customers show highest anomaly concentration  
+- High-risk segment exhibits significantly higher fraud rates  
+- Revenue contribution is skewed toward a small group of customers  
+
+📌 **Impact:** Enabled proactive risk identification and fraud monitoring through data-driven segmentation and anomaly detection  
 
 ---
-
 ## 🔹 GitHub Stats
 
 <p align="center">
@@ -95,10 +132,10 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 ## 🔹 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/himanshupathakkk/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:himanshupathak1224@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
