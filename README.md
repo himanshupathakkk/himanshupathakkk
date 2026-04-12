@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Himanshu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=From+AI+Model+Quality+%E2%86%92+Data-Driven+Decision+Making;Building+End-to-End+Analytics+Projects+with+Business+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=700&lines=From+AI+Model+Quality+%E2%86%92+Data-Driven+Decision+Making;Building+End-to-End+Analytics+Projects+with+Business+Impact" />
 </p>
 
 <p align="center">
@@ -61,8 +61,8 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ## 🔹 Featured Projects
 
-### 📈 E-Commerce Funnel & Revenue Intelligence Dashboard  
-[🔗 View Project](https://github.com/himanshupathakkk/ecommerce-funnel-dashboard)
+### 📈 E-Commerce Funnel & Revenue Intelligence Dashboard
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/ecommerce-funnel-dashboard)
 
 **Tech Stack:** Power BI, SQL, Python (Pandas)  
 
@@ -82,7 +82,7 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 ---
 
 ### 👥 Customer Behavior & Revenue Insights Dashboard  
-[🔗 View Project](https://github.com/himanshupathakkk/customer-behavior-analysis-dashboard)
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/customer-behavior-analysis-dashboard)
 
 **Tech Stack:** Python (Pandas, NumPy), SQL (MySQL), Power BI  
 
@@ -102,8 +102,8 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ---
 
-### ⚠️ Credit Risk & Fraud Analytics Dashboard  
-[🔗 View Project](https://github.com/himanshupathakkk/credit-risk-intelligence-dashboard)
+### ⚠️ Credit Risk & Fraud Analytics Dashboard
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/credit-risk-intelligence-dashboard)
 
 **Tech Stack:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL), Tableau  
 
