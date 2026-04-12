@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=700&lines=From+AI+Model+Quality+%E2%86%92+Data-Driven+Decision+Making;Building+End-to-End+Analytics+Projects+with+Business+Impact" />
 </p>
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=himanshupathakkk&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshupathakkk&label=Profile%20views&color=1f6feb&style=flat" />
+</p>
 
 ---
 
