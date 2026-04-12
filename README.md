@@ -10,7 +10,7 @@
 
 ---
 
-## 🔹 About Me
+## ▪️ About Me
 
 AI Data Quality Analyst at **Amazon (AWS Bedrock)** with hands-on experience improving production-grade ML systems.  
 Drove a **15% increase in model accuracy** by defining KPIs and enforcing Responsible AI (RAI) standards.  
@@ -21,9 +21,9 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ---
 
-## 🔹 What I Bring
+## ▪️ What I Bring
 
-| 🧠 AI & Data Quality | 📊 Analytics & Visualization | 💼 Business & Domain Thinking |
+| 🧩 AI & Data Quality | 📋 Analytics & Visualization | 🗂️ Business & Domain Thinking |
 |---------------------|-----------------------------|------------------------------|
 | Model evaluation & KPI design | EDA & data storytelling | Product & funnel analysis |
 | Responsible AI (RAI) compliance | Dashboarding (Power BI) | Revenue & conversion metrics |
@@ -31,9 +31,9 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ---
 
-## 🔹 Tech Stack
+## ▪️ Tech Stack
 
-### 🧩 Languages & Tools
+### 🛠️ Languages & Tools
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -64,17 +64,17 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ---
 
-### 🧠 Concepts & Domain Knowledge
+### 🧑‍💻 Concepts & Domain Knowledge
 *DBMS, Data Warehousing, Data Modeling, LLM Fundamentals, AI & ML Basics, Claude 101 (AI Fluency — Frameworks & Foundations)*
 
 ---
 
-### 🚀 Currently Learning
+### ⬆️ Currently Learning
 ![Expanding Stack](https://img.shields.io/badge/Expanding%20Stack-Coming%20Soon-6c757d?style=for-the-badge)
 
 ---
 
-## 🔹 Featured Projects
+## ▪️ Featured Projects
 
 ### 📈 E-Commerce Funnel & Revenue Intelligence Dashboard
 [![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/ecommerce-funnel-dashboard)
@@ -117,7 +117,7 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ---
 
-### ⚠️ Credit Risk & Fraud Analytics Dashboard
+### ❗ Credit Risk & Fraud Analytics Dashboard
 [![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/credit-risk-intelligence-dashboard)
 
 **Tech Stack:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL), Tableau  
@@ -136,15 +136,16 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 📌 **Impact:** Enabled proactive risk identification and fraud monitoring through data-driven segmentation and anomaly detection  
 
 ---
-## 🔹 GitHub Stats
+
+## ▪️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshupathakkk&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupathakkk&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔹 Let’s Connect
+## ▪️ Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshupathakkk/">
