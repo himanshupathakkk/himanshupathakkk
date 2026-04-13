@@ -79,7 +79,7 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 ### 📈 E-Commerce Funnel & Revenue Intelligence Dashboard
 [![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/ecommerce-funnel-dashboard)
 
-**Tech Stack:** Power BI, SQL, Python (Pandas)  
+**Tech Stack:** Python (Pandas), SQL (MySQL), Power BI
 
 - Built an end-to-end analytics solution to evaluate user behavior, revenue trends, and conversion efficiency  
 - Designed a funnel analysis (View → Cart → Purchase) to identify major drop-off points  
@@ -140,7 +140,7 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 ## ▪️ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshupathakkk&theme=tokyonight&hide_border=true"/>
+ <img src="https://streak-stats.demolab.com/?user=himanshupathakkk&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
