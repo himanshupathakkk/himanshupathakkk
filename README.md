@@ -65,7 +65,7 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 ---
 
 ### 🧑‍💻 Concepts & Domain Knowledge
-*DBMS, Data Warehousing, Data Modeling, LLM Fundamentals, AI & ML Basics, Amazon QuickSight, Claude 101 (AI Fluency — Frameworks & Foundations)*
+*DBMS, Data Warehousing, Data Modeling, LLM Fundamentals, AI & ML Basics, Amazon QuickSight, Claude 101 (AI Fluency - Frameworks & Foundations)*
 
 ---
 
