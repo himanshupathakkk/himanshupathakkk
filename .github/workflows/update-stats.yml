@@ -2,14 +2,16 @@ name: Update GitHub Streak Stats
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # Runs every 6 hours automatically
-  workflow_dispatch:          # Allows manual trigger anytime
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-streak:
     runs-on: ubuntu-latest
     permissions:
-      contents: write         # Needed to push the SVG back to the repo
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ← Added here
 
     steps:
       - name: Checkout repo
@@ -26,13 +28,3 @@ jobs:
           git add streak-stats.svg
           git diff --staged --quiet || git commit -m "chore: update streak stats"
           git push
-
-jobs:
-  update-streak:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # ← Add this line
-
-
