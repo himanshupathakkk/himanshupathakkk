@@ -26,3 +26,13 @@ jobs:
           git add streak-stats.svg
           git diff --staged --quiet || git commit -m "chore: update streak stats"
           git push
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true  # ← Add this line
+
+
