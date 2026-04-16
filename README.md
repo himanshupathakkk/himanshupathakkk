@@ -137,11 +137,15 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ---
 
-## ▪️ GitHub Stats
+## ▪️ GitHub Streak Stats 
 
-<p align="center">
- <img src="./streak-stats.svg"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=himanshupathakkk&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## ▪️ GitHub Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshupathakkk&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
