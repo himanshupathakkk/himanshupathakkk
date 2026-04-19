@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanshupathakkk">
+  <a href="https://www.linkedin.com/in/himanshupathakkk/">
     <img src="https://img.shields.io/badge/Open_to_Work-DA_%7C_BA_%7C_BI_Roles-brightgreen?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
