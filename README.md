@@ -5,6 +5,14 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/himanshupathakkk">
+    <img src="https://img.shields.io/badge/Open_to_Work-DA_%7C_BA_%7C_BI_Roles-brightgreen?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshupathakkk&label=Profile%20views&color=1f6feb&style=flat" />
 </p>
 
@@ -134,12 +142,6 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 - Revenue contribution is skewed toward a small group of customers  
 
 📌 **Impact:** Enabled proactive risk identification and fraud monitoring through data-driven segmentation and anomaly detection  
-
----
-
-## ▪️ GitHub Streak Stats 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=himanshupathakkk&theme=dark&cachebuster=1)](https://git.io/streak-stats)
 
 ---
 
