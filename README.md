@@ -139,7 +139,7 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ## ▪️ GitHub Streak Stats 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=himanshupathakkk&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=himanshupathakkk&theme=dark&cachebuster=1)](https://git.io/streak-stats)
 
 ---
 
