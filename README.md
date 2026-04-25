@@ -155,6 +155,8 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 [![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20Gold%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/himanshupathakkk?badge=sql&stars=5&level=3)
 
+[![HackerRank Python](https://img.shields.io/badge/HackerRank-Python%20%E2%98%85-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/himanshupathakkk?badge=python&stars=1&level=1)
+
 ---
 
 ## ▪️ Let’s Connect
