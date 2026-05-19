@@ -20,12 +20,9 @@
 
 ## ▪️ About Me
 
-AI Data Quality Analyst at **Amazon (AWS Bedrock)** with hands-on experience improving production-grade ML systems.  
-Drove a **15% increase in model accuracy** by defining KPIs and enforcing Responsible AI (RAI) standards.  
+AI Data Quality Analyst at Amazon (AWS Bedrock) with experience in KPI evaluation, Responsible AI compliance, and large-scale model quality analysis.
 
-Now transitioning deliberately into **Data Analytics**, focusing on translating data into actionable business insights across **Product, E-Commerce, and Financial domains**.  
-
-Strong foundation in **data quality, model evaluation, and analytical thinking**, now extended into **end-to-end analytics workflows and dashboard storytelling**.
+Currently transitioning into Data Analytics and Business Intelligence, building end-to-end analytics projects across e-commerce, operations, customer analytics, and risk domains using SQL, Python, Power BI, and Tableau.
 
 ---
 
@@ -77,12 +74,34 @@ Strong foundation in **data quality, model evaluation, and analytical thinking**
 
 ---
 
-### ⬆️ Currently Learning
-![Expanding Stack](https://img.shields.io/badge/Expanding%20Stack-Coming%20Soon-6c757d?style=for-the-badge)
+### ⬆️ Currently Exploring
+- Advanced SQL Optimization
+- Statistical Analysis for Business Analytics
+- Power BI Dashboard Performance Tuning
+- Business Case Driven Analytics
 
 ---
 
 ## ▪️ Featured Projects
+
+### 🚚 Supply Chain Capacity Intelligence Platform
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/supply-chain-capacity-intelligence-platform)
+
+**Tech Stack:** Python, SQL (PostgreSQL), Power BI, DAX, 
+
+- Built a supply chain analytics platform to monitor SLA reliability, freight inefficiencies, delivery risk, and operational bottlenecks using the Brazilian Olist dataset
+- Developed executive dashboards for operational monitoring and root cause analysis across logistics performance and regional delivery risk  
+- Performed KPI engineering for SLA Breach %, Delivery Duration, Freight Cost, and Early Delivery metrics    
+- Identified operational scaling pressure, seller concentration risk, and high-risk delivery regions through RCA analysis
+
+📊 **Key Insights:**
+- SLA reliability declined during peak operational demand periods  
+- Higher freight costs did not consistently improve delivery performance  
+- Regional delivery bottlenecks significantly impacted fulfillment timelines  
+
+📌 **Impact:** Enabled data-driven logistics monitoring and operational decision-making through executive-level supply chain intelligence dashboards  
+
+---
 
 ### 📈 E-Commerce Funnel & Revenue Intelligence Dashboard
 [![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/ecommerce-funnel-dashboard)
