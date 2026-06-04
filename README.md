@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Himanshu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=900&color=FF8C00&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Ex-Amazon+(AWS+Bedrock);SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Data+Into+Business+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=900&color=FF8C00&center=true&vCenter=true&width=900&lines=Risk+%26+Data+Analyst+%7C+Ex-Amazon+(AWS+Bedrock);SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Data+Into+Business+Decisions" />
 </p>
 
 <p align="center">
@@ -67,19 +67,6 @@ That experience shaped how I approach analytics: not just reporting what happene
 
 ## ▪️ Featured Projects
 
-### 🚚 Supply Chain Capacity Intelligence Platform
-[![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/supply-chain-capacity-intelligence-platform)
-
-Built an end-to-end supply chain analytics platform using Python, SQL, and Power BI to monitor SLA reliability, freight inefficiencies, and regional delivery risk across 99K+ orders.
-
-**What the Analysis Revealed**
-- MA recorded the highest SLA breach rate (17.43%), 1.6x above network average
-- SP seller concentration emerged as the primary operational bottleneck behind breached deliveries
-
-📌 **Impact:** Shifted the problem framing from shipment volume to seller concentration and regional delivery imbalance — enabling targeted allocation strategies.
-
----
-
 ### ❗ Credit Risk & Fraud Analytics Dashboard
 [![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/credit-risk-intelligence-dashboard)
 
@@ -90,6 +77,19 @@ Built a credit risk intelligence system combining anomaly detection, customer se
 - High-risk customers generated disproportionate revenue exposure despite elevated fraud probability
 
 📌 **Impact:** Revealed the business tradeoff between revenue dependence and fraud exposure across high-value customer segments — establishing baseline thresholds for flagging systems.
+
+---
+
+### 🚚 Supply Chain Capacity Intelligence Platform
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/supply-chain-capacity-intelligence-platform)
+
+Built an end-to-end supply chain analytics platform using Python, SQL, and Power BI to monitor SLA reliability, freight inefficiencies, and regional delivery risk across 99K+ orders.
+
+**What the Analysis Revealed**
+- MA recorded the highest SLA breach rate (17.43%), 1.6x above network average
+- SP seller concentration emerged as the primary operational bottleneck behind breached deliveries
+
+📌 **Impact:** Shifted the problem framing from shipment volume to seller concentration and regional delivery imbalance — enabling targeted allocation strategies.
 
 ---
 
