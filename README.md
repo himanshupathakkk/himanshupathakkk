@@ -20,19 +20,19 @@
 
 # ▪️ About Me
 
-Data Analyst with 1.5+ years of experience at Amazon (AWS Bedrock), skilled in SQL, Python, Power BI, Tableau, Amazon QuickSight, and Advanced Excel.
+Data Analyst skilled in SQL, Python, Power BI, Tableau, Amazon QuickSight, and Advanced Excel with experience working on analytics, dashboarding, and data visualization projects across customer analytics, risk analytics, e-commerce, and supply chain domains.
 
-Experienced in dashboard development, data visualization, comparative analysis, anomaly detection, and transforming structured datasets into business-focused analytical insights.
+Built end-to-end analytics projects involving SQL-based data analysis, KPI tracking, dashboard development, trend analysis, and business performance monitoring using structured datasets and visualization tools.
 
-Built analytics projects across:
-- Credit Risk & Fraud Analytics
-- E-Commerce Funnel Analytics
-- Supply Chain Intelligence Analytics
-- Customer Behavior Analytics
+Projects include: <br>
+• Credit Risk & Fraud Analytics Dashboard <br>
+• E-Commerce Funnel & Revenue Analytics Dashboard <br>
+• Supply Chain Capacity Intelligence Platform <br>
+• Customer Behavior & Revenue Analytics Dashboard <br>
 
-Projects involve analyzing 285K+ transactions, 178K+ users, 233K+ customer records, and 99K+ order datasets to evaluate customer behavior, conversion trends, anomaly patterns, revenue concentration, and delivery performance using SQL, Python, Power BI, and Tableau.
+Worked with large transactional and business datasets to analyze customer behavior, revenue trends, conversion performance, risk patterns, delivery performance, and dashboard-based business insights using SQL, Python, Power BI, and Tableau.
 
-Focused on building analytics solutions that improve visibility into business trends, customer behavior, and data-driven decision-making.
+Focused on building practical analytics solutions, interactive dashboards, and data-driven insights for business reporting and performance analysis.
 
 ---
 
