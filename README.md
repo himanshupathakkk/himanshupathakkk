@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Himanshu 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=900&color=FF8C00&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Ex-Amazon+(AWS+Bedrock);SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Data+Into+Business+Insights" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=900&color=FF8C00&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Ex-Amazon+(AWS+Bedrock);SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Google+Sheets;Turning+Data+Into+Business+Insights" />
 </p>
 
 <p align="center">
@@ -20,17 +20,16 @@
 
 # ▪️ About Me
 
-Data Analyst skilled in SQL, Python, Power BI, Tableau, Amazon QuickSight, and Advanced Excel with experience working on analytics, dashboarding, and data visualization projects across customer analytics, risk analytics, e-commerce, and supply chain domains.
+Data Analyst skilled in SQL, Python, Power BI, Tableau, Amazon QuickSight, Google Sheets, and Advanced Excel with experience working on analytics, dashboarding, and data visualization projects across supply chain, risk analytics, and e-commerce domains.
 
-Built end-to-end analytics projects involving SQL-based data analysis, KPI tracking, dashboard development, trend analysis, and business performance monitoring using structured datasets and visualization tools.
+Built end-to-end analytics projects involving ETL data governance, SQL-based data analysis, KPI tracking, dashboard development, trend analysis, and business performance monitoring using structured datasets and visualization tools.
 
 Projects include: <br>
-• Credit Risk & Fraud Analytics Dashboard <br>
-• E-Commerce Funnel & Revenue Analytics Dashboard <br>
-• Supply Chain Capacity Intelligence Platform <br>
-• Customer Behavior & Revenue Analytics Dashboard <br>
+- SwiftCart India — Supply Chain & Unit Economics Analytics <br>
+- Credit Risk & Fraud Analytics Dashboard <br>
+- E-Commerce Funnel & Revenue Intelligence Dashboard <br>
 
-Worked with large transactional and business datasets to analyze customer behavior, revenue trends, conversion performance, risk patterns, delivery performance, and dashboard-based business insights using SQL, Python, Power BI, and Tableau.
+Worked with large transactional and business datasets to analyze unit economics, supply chain SLA performance, risk patterns, conversion funnels, and revenue trends using SQL, Python, Power BI, Tableau, and Google Sheets.
 
 Focused on building practical analytics solutions, interactive dashboards, and data-driven insights for business reporting and performance analysis.
 
@@ -42,6 +41,7 @@ Focused on building practical analytics solutions, interactive dashboards, and d
 [![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)](https://www.google.com/sheets/about/)
 [![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ## 🐍 Data & Programming
@@ -57,10 +57,33 @@ Focused on building practical analytics solutions, interactive dashboards, and d
 
 # ▪️ Featured Projects
 
+## 📦 SwiftCart India — Supply Chain & Unit Economics Analytics
+[![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/swiftcart-supply-chain-analytics)
+
+Engineered an end-to-end e-commerce supply chain, logistics SLA, and unit economics analytics pipeline in Google Sheets across 2,500+ raw order records and 35 catalog SKUs (`₹64.5L` validated revenue; `₹26.5L` net gross profit) to diagnose margin drag, carrier bottlenecks, vendor lead-time variance, and stockout risk[cite: 3].
+
+### 📌 Business Objective
+- Build a multi-stage ETL & data governance pipeline isolating anomalous records (`65` duplicate orders, `36` reverse-timestamp bugs, and `326` incomplete financial rows)[cite: 3]
+- Evaluate unit economics and category-level gross margin concentration
+- Benchmark logistics partner SLA compliance and vendor contract variance
+- Identify catalog stockout and reorder threshold exposure
+
+### 📊 Key Insights
+- Electronics (`41.6%` margin) and Home Appliances (`45.1%` margin) generate **73.2%** of total gross profit, while Accessories lags at **30.6%** due to flat-rate shipping subsidies[cite: 3]
+- Overall on-time delivery sits at **62.02%** (`61.1%–63.7%` across all carriers), driven by unrealistic 3-day vendor SLAs vs. `4.8–5.6` day actual transit times[cite: 3]
+- **20 of 35 SKUs (`57.1%`)** are stocked out (`5`) or below reorder threshold (`15`), requiring immediate procurement replenishment[cite: 3]
+
+### 🛠️ Tools Used
+Google Sheets • Multi-Stage ETL & Data Governance • Pivot Tables • Unit Economics • Supply Chain & SLA Analytics • Executive Dashboarding
+
+📌 **Impact:** Delivered a reconciled executive scorecard and 30-day action plan targeting vendor SLA renegotiation, shipping subsidy optimization, and immediate stock replenishment.
+
+---
+
 ## ❗ Credit Risk & Fraud Analytics Dashboard
 [![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/credit-risk-intelligence-dashboard)
 
-Developed a credit risk and fraud analytics dashboard using SQL, Python, and Tableau across 285K+ transaction records and 2,849 customer profiles to evaluate transaction anomalies, customer risk exposure, and fraud concentration patterns.
+Developed a credit risk and fraud analytics dashboard using SQL, Python, and Tableau across 285K+ transaction records and 2,849 customer profiles to evaluate transaction anomalies, customer risk exposure, and fraud concentration patterns[cite: 5, 6, 7].
 
 ### 📌 Business Objective
 - Analyze customer risk exposure
@@ -69,37 +92,14 @@ Developed a credit risk and fraud analytics dashboard using SQL, Python, and Tab
 - Improve visibility into transaction risk trends
 
 ### 📊 Key Insights
-- Identified 575 high-risk customer accounts
-- Detected 5,677 anomalous transactions
-- Observed a 0.62% fraud concentration peak within high-risk customer segments
+- Identified 575 high-risk customer accounts[cite: 6]
+- Detected 5,677 anomalous transactions[cite: 6]
+- Observed a 0.62% fraud concentration peak within high-risk customer segments[cite: 6]
 
 ### 🛠️ Tools Used
-SQL • Python • Tableau • Data Visualization • Comparative Analysis • Fraud Analytics
+SQL • Python • Tableau • Data Visualization • Comparative Analysis • Fraud Analytics[cite: 5]
 
 📌 **Impact:** Improved visibility into customer risk exposure, fraud concentration trends, and anomalous transaction behavior through interactive analytical reporting.
-
----
-
-## 🚚 Supply Chain Capacity Intelligence Platform
-[![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/supply-chain-capacity-intelligence-platform)
-
-Built a supply chain analytics dashboard using SQL, Python, and Power BI across 99K+ order records to evaluate delivery performance, freight trends, and regional shipment patterns.
-
-### 📌 Business Objective
-- Analyze delivery performance trends
-- Evaluate shipment delays and freight behavior
-- Identify regional delivery concentration patterns
-- Improve visibility into shipment analytics
-
-### 📊 Key Insights
-- Identified a 6.77% SLA breach rate across shipment activity
-- Regional delivery delays increased to 17.43% within underperforming hubs
-- Evaluated 5.6K+ delayed shipment records through comparative analysis
-
-### 🛠️ Tools Used
-SQL • Python • Power BI • DAX • Data Visualization • Supply Chain Analytics
-
-📌 **Impact:** Improved visibility into delivery trends, freight distribution patterns, and regional shipment performance through dashboard-driven analytics.
 
 ---
 
@@ -126,29 +126,6 @@ SQL • Python • Power BI • DAX • Funnel Analytics • Revenue Analytics
 
 ---
 
-## 👥 Customer Behavior & Revenue Insights Dashboard
-[![View Project](https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshupathakkk/customer-behavior-analysis-dashboard)
-
-Developed a customer analytics dashboard using SQL, Python, and Power BI across 233K+ transaction records to analyze customer segmentation, revenue behavior, and seasonal purchasing trends.
-
-### 📌 Business Objective
-- Evaluate customer segmentation patterns
-- Analyze seasonal revenue behavior
-- Interpret purchasing activity trends
-- Improve visibility into customer value distribution
-
-### 📊 Key Insights
-- Implemented an RFM-based segmentation model across multiple customer groups
-- Identified medium-value customers representing ~48% of the customer base
-- Evaluated non-discounted purchases contributing $133.7K+ in revenue
-
-### 🛠️ Tools Used
-SQL • Python • Power BI • Customer Analytics • RFM Segmentation • Data Visualization
-
-📌 **Impact:** Improved visibility into customer value distribution, purchasing behavior, and revenue contribution patterns through business-focused analytics.
-
----
-
 ## 🏅 Certifications
 
 [![HackerRank SQL](https://img.shields.io/badge/HackerRank-SQL%20Gold%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/himanshupathakkk?badge=sql&stars=5&level=3)
@@ -162,7 +139,7 @@ SQL • Python • Power BI • Customer Analytics • RFM Segmentation • Data
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 
-  <a href="mailto:himanshupath1224@gmail.com">
+  <a href="mailto:himanshupathak1224@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
